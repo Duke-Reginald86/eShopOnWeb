@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-SP
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: Team 2
-  WEBAPP-NAME: az400-webapp-Staints
+  SUBSCRIPTION-ID: 65684f2a-01e2-443f-8763-39047d2a965b
+  WEBAPP-NAME: az400-webapp-Staint
 
 
 jobs:
